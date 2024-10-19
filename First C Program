@@ -1,0 +1,18 @@
+#include <stdio.h>
+int main (Void) {
+	int minutes, seconds;
+	float total_seconds, fps, mps; 
+	const int MILE_IN_FEET = 5280; 
+	const int FEET_IN_KM = 3282; 
+	printf ("Enter race time in minutes and seconds:\n"); 
+	printf ("Mniutes:"); 
+	scanf ("%d", &minutes); 
+	printf ("seconds:");
+	scanf ("%d", &seconds); 
+	total_seconds=minutes*60+seconds;
+	fps=MILE_IN_FEET/total_seconds;
+	mps=(MILE_IN_FEET/FEET_IN_KM*1000)/total_seconds;
+	printf("fps: %.2f\n", fps);
+	printf ("mps: %.2f\n", mps);
+	return 0;
+}
