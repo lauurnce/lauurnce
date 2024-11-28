@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me ... paneslawrence8@gmail.com
+- 📫 How to reach me ... lawrencepanes8@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
