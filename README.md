@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @lauurnce
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me ... lawrencepanes8@gmail.com
+- 👋 Hi, I’m Lawrence Panes
+- 📫 How to reach me: paneslawrence8@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 <!---
 lauurnce/lauurnce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
