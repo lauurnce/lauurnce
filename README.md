@@ -1,22 +1,28 @@
 <p align="left">
-  I’m <strong>Lauurnce</strong>, a first-year <strong>BS Information Technology</strong> student at the
-  <strong>Polytechnic University of the Philippines.</strong> <br/>
+  I’m <strong>Lauurnce</strong>, a <strong>BS Information Technology</strong> student with a passion for
+  <strong>cybersecurity</strong> and <strong>artificial intelligence</strong>.
 </p>
 
-# Stack:
+  
+# Licenses & certifications
+<p align="center">
+  <a href="https://www.datacamp.com/skill-verification/AIF0022200308048">
+    <img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/AI_Fundamentals_-_badge_with_outline.avif" alt="AI Fundamentals Certification" width="200"/>
+  </a>
+  <a href="https://www.credly.com/badges/a90eb6d7-3f87-41c9-be3e-376f73ef7021/linked_in_profile">
+    <img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/aviatrix.png" alt="ACE Multicloud Network Associate" width="250"/>
+  </a>
+   <a href="https://www.datacamp.com/skill-verification/DL0030908107146">
+    <img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/Data_Literacy_-_badge_with_outline.avif" alt="Data Literacy" width="200"/>
+  </a>
+</p>
+
+  # Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lauurnce&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=lauurnce&theme=apprentice&hide_border=true" />
-</p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=consolas&size=30&duration=4000&color=00A6FF&center=true&vCenter=true&width=550&height=50&lines=Cybersecurity+Enthusiast;Data+/+Machine+Learning+Learner;Cloud+Computing+Explorer;Still+Learning..." />
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
