@@ -7,13 +7,13 @@
 # Licenses & certifications
 <p align="center">
   <a href="https://www.datacamp.com/skill-verification/AIF0022200308048">
-    <img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/AI_Fundamentals_-_badge_with_outline.avif" alt="AI Fundamentals Certification" width="200"/>
+    <img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/AI_Fundamentals_-_badge_with_outline.avif" alt="AI Fundamentals Certification" width="100"/>
   </a>
   <a href="https://www.credly.com/badges/a90eb6d7-3f87-41c9-be3e-376f73ef7021/linked_in_profile">
-    <img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/aviatrix.png" alt="ACE Multicloud Network Associate" width="250"/>
+    <img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/aviatrix.png" alt="ACE Multicloud Network Associate" width="130"/>
   </a>
    <a href="https://www.datacamp.com/skill-verification/DL0030908107146">
-    <img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/Data_Literacy_-_badge_with_outline.avif" alt="Data Literacy" width="200"/>
+    <img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/Data_Literacy_-_badge_with_outline.avif" alt="Data Literacy" width="100"/>
   </a>
 </p>
 
