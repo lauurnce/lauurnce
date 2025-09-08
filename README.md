@@ -9,14 +9,14 @@
   <a href="https://www.datacamp.com/skill-verification/AIF0022200308048">
     <img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/AI_Fundamentals_-_badge_with_outline.avif" alt="AI Fundamentals Certification" width="100"/>
   </a>
+  <a href="https://www.datacamp.com/skill-verification/DL0030908107146">
+    <img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/Data_Literacy_-_badge_with_outline.avif" alt="Data Literacy" width="100"/>
+  </a>
   <a href="https://www.credly.com/badges/a90eb6d7-3f87-41c9-be3e-376f73ef7021/linked_in_profile">
     <img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/aviatrix.png" alt="ACE Multicloud Network Associate" width="130"/>
   </a>
-   <a href="https://www.datacamp.com/skill-verification/DL0030908107146">
-    <img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/Data_Literacy_-_badge_with_outline.avif" alt="Data Literacy" width="100"/>
-  </a>
-  <a href="[https://www.datacamp.com/skill-verification/DL0030908107146](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FC015617CF2E6357A6D4A10F3744606B15038602579AABE43333216C5BFADE04)">
-    <img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/OCI25AICFA.jpeg" alt="Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate" width="100"/>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FC015617CF2E6357A6D4A10F3744606B15038602579AABE43333216C5BFADE04">
+    <img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/OCI25AICFA-removebg-preview.png" alt="Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate" width="125"/>
   </a>
 </p>
 
