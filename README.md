@@ -15,6 +15,9 @@
    <a href="https://www.datacamp.com/skill-verification/DL0030908107146">
     <img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/Data_Literacy_-_badge_with_outline.avif" alt="Data Literacy" width="100"/>
   </a>
+  <a href="[https://www.datacamp.com/skill-verification/DL0030908107146](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FC015617CF2E6357A6D4A10F3744606B15038602579AABE43333216C5BFADE04)">
+    <img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/OCI25AICFA.jpeg" alt="Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate" width="100"/>
+  </a>
 </p>
 
   # Stack:
