@@ -18,6 +18,8 @@
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FC015617CF2E6357A6D4A10F3744606B15038602579AABE43333216C5BFADE04">
     <img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/OCI25AICFA-removebg-preview.png" alt="Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate" width="125"/>
   </a>
+   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3EB572DD3D34A43BCE970A54F66E101690930394DDA52A9F56A561783AFE6C58">
+    <img src="1754897237471-removebg-preview.png" alt="Oracle Cloud Infrastructure 2025 Certified Generative AI Professional" width="125"/>
 </p>
 
   # Stack:
