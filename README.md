@@ -29,5 +29,9 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" />
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=lauurnce&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
