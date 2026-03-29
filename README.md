@@ -2,7 +2,6 @@
   I’m <strong>Lauurnce</strong>, a <strong>BS Information Technology</strong> student with a passion for
   <strong>cybersecurity</strong> and <strong>artificial intelligence</strong>.
 </p>
-
   
 # Licenses & certifications
 <p align="center">
@@ -32,6 +31,18 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lauurnce&style=flat-square&color=blue" alt="Profile Views" />
 </p>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lauurnce&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lauurnce&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff)
+
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
