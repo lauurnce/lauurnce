@@ -17,9 +17,13 @@
 ---
 ## About Me
 
-I'm BS Information Technology student at the Polytechnic University of the Philippines and a DOST Scholar, with a growing interest in **artificial intelligence, machine learning, and cloud computing**. Currently serving as an Associate Start-Up Development Director at AWSUG e:Novators PH and a Deputy Head for Research and Extensions at IBITS, I spend most of my time studying, joining hackathons, and learning how to build better software. My recent focus has been on exploring **Large Language Models (LLMs), AWS services, and RAG architectures** while continuously practicing my foundations in Python and Java.
+BS Information Technology student at the Polytechnic University of the Philippines and a DOST Scholar, passionate about **artificial intelligence, machine learning, and cloud computing**.
 
-I believe in the value of continuous learning, writing clean code, and sharing what I know with the tech community. I am always working to improve my technical skills and gain more hands-on experience. I am open to collaborations on student projects, hackathons, or anything involving **AI integrations, data structures, and cloud architectures**.
+- **Education** — BSIT at PUP | DOST Scholar
+- **Roles** — AI Lead @ AWS Skill Builder Group PUP · Associate Startup Development Director @ AWSUG e:Novators PH · Deputy Head for Research & Extensions @ IBITS
+- **Focus** — LLMs and RAG architectures
+- **Learning** — AWS, Python/ML frameworks, and software engineering fundamentals
+- **Open to** — hackathons, AI/LLM integrations, and student research collaborations
 
 ## Tech Stack
 <div align="center">
