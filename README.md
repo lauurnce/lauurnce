@@ -10,9 +10,8 @@
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1200&color=ffffff&vCenter=true&center=true&width=700&lines=DOST+Scholar;AWS+Cloud+Club+PUP+AI+Lead;AWSUG+e:Novators+Associate+Startup+Development+Director" alt="Typing SVG" />
 
-<p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=lauurnce&style=flat-square&color=blue" alt="Profile Views" />
+
 </div>
 
 ---
@@ -34,7 +33,7 @@ I believe in the value of continuous learning, writing clean code, and sharing w
 </div>
 
 ## Licenses & Certifications
-<p align="center">
+<div align="center">
   <a href="https://www.datacamp.com/skill-verification/AIF0022200308048">
     <img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/AI_Fundamentals_-_badge_with_outline.avif" alt="AI Fundamentals Certification" width="100"/>
   </a>
@@ -50,7 +49,7 @@ I believe in the value of continuous learning, writing clean code, and sharing w
    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3EB572DD3D34A43BCE970A54F66E101690930394DDA52A9F56A561783AFE6C58">
     <img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/1754897237471-removebg-preview.png" alt="Oracle Cloud Infrastructure 2025 Certified Generative AI Professional" width="130"/>
   </a>
-</p>
+</div>
 
 ## GitHub Stats
 
