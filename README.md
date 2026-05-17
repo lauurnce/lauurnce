@@ -61,6 +61,14 @@ BS Information Technology student at the Polytechnic University of the Philippin
 
 </div>
 
+## Projects
+
+### Kalinga
+Connects BPO agents directly to HMOs to cut Letter of Authorization (LOA) approval time.
+
+**Tech:** React Native · TypeScript · Expo · Supabase · Google Gemini 1.5 Flash · NativeWind  
+**Repo:** [habi-4.0-ws-2026](https://github.com/lauurnce/habi-4.0-ws-2026)
+
 ## Licenses & Certifications
 <div align="center">
   <a href="https://www.datacamp.com/skill-verification/AIF0022200308048">
