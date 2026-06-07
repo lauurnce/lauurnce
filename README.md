@@ -43,6 +43,7 @@ BS Information Technology student at the Polytechnic University of the Philippin
 **AI / ML**<br/>
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=Jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" />
 
 **Cloud & DevOps**<br/>
 <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white" />
@@ -58,6 +59,8 @@ BS Information Technology student at the Polytechnic University of the Philippin
 <img src="https://img.shields.io/badge/VS_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_Q-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_Kiro-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
 
 </div>
 
