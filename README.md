@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/assets/ascii-portrait.png" align="left" width="230" alt="ASCII portrait of Lawrence Panes"/>
+<img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/assets/ascii-portrait.png" align="left" width="190" alt="ASCII portrait of Lawrence Panes"/>
 
 # Lawrence Panes
 *Iskolar ng Bayan*
@@ -24,10 +24,27 @@ open_to: hackathons, AI/LLM integrations, and student research collaborations
 
 ## Tech Stack
 
-|  |  |  |
-|---|---|---|
-| **Languages**<br/><div align="center"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" /></div> | **Cloud & DevOps**<br/><div align="center"><img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" /></div> | **Tools**<br/><div align="center"><img src="https://img.shields.io/badge/VS_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_Q-FF9900?style=flat&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_Kiro-FF9900?style=flat&logo=amazon-aws&logoColor=white" /></div> |
-| **Frameworks**<br/><div align="center"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" /></div> | **AI / ML**<br/><div align="center"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" /></div> | **Databases**<br/><div align="center"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white" /></div> |
+<div align="center">
+
+**Languages**<br/>
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+
+**Frameworks**<br/>
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" />
+
+**AI / ML**<br/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" />
+
+**Cloud & DevOps**<br/>
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
+
+**Databases**<br/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
+
+**Tools**<br/>
+<img src="https://img.shields.io/badge/VS_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_Q-FF9900?style=flat&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_Kiro-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+
+</div>
 
 ## Certifications
 
@@ -43,10 +60,6 @@ open_to: hackathons, AI/LLM integrations, and student research collaborations
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lauurnce&theme=tokyonight&hide_border=true&background=0d1117&ring=808080&fire=808080&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lauurnce&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ffffff&line=808080&point=ffffff)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lauurnce&theme=tokyonight&hide_border=true&background=0d1117&ring=808080&fire=808080&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" width="410"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=lauurnce&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ffffff&line=808080&point=ffffff" width="410"/>
 
 </div>
