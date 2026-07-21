@@ -50,10 +50,3 @@ open_to: hackathons, AI/LLM integrations, and student research collaborations
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lauurnce&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ffffff&line=808080&point=ffffff)
 
 </div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e0e0,50:b0b0b0,100:808080&height=120&section=footer&" width="100%"/>
-
-</div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
