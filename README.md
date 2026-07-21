@@ -1,29 +1,26 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e0e0,50:b0b0b0,100:808080&height=200&section=header&text=Lawrence%20Panes&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Iskolar%20ng%20Bayan&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/lauurnce/lauurnce/refs/heads/main/assets/ascii-portrait.png" align="left" width="230" alt="ASCII portrait of Lawrence Panes"/>
 
-<br/>
-
-[![Facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lauurnce/)
-[![Twitter](https://img.shields.io/badge/@icrstck-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/icrstck)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrencepanes/)
-
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1200&color=ffffff&vCenter=true&center=true&width=700&lines=DOST+Scholar;AWS+Cloud+Club+PUP+AI+Lead;AWSUG+e:Novators+Associate+Startup+Development+Director" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=lauurnce&style=flat-square&color=blue" alt="Profile Views" />
-
-</div>
-
----
-## About Me
+# Lawrence Panes
+*Iskolar ng Bayan*
 
 BS Information Technology student at the Polytechnic University of the Philippines and a DOST Scholar, passionate about **artificial intelligence, machine learning, and cloud computing**.
 
-- **Education** — BSIT at PUP | DOST Scholar
-- **Roles** — AI Lead @ AWS Skill Builder Group PUP · Associate Startup Development Director @ AWSUG e:Novators PH · Deputy Head for Research & Extensions @ IBITS
-- **Focus** — LLMs and RAG architectures
-- **Learning** — AWS, Python/ML frameworks, and software engineering fundamentals
-- **Open to** — hackathons, AI/LLM integrations, and student research collaborations
+```yaml
+# lauurnce@github ~ % fetch
+role: AI Lead @ AWS Skill Builder Group PUP
+also: Associate Startup Development Director @ AWSUG e:Novators PH
+also: Deputy Head for Research & Extensions @ IBITS
+focus: LLMs and RAG architectures
+learning: AWS, Python/ML frameworks, and software engineering fundamentals
+open_to: hackathons, AI/LLM integrations, and student research collaborations
+```
+
+[![Facebook](https://img.shields.io/badge/facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/lauurnce/)
+[![Twitter](https://img.shields.io/badge/@icrstck-000000?style=flat&logo=x&logoColor=white)](https://x.com/icrstck)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrencepanes/)
+![Profile Views](https://komarev.com/ghpvc/?username=lauurnce&style=flat-square&color=808080)
+
+<br clear="left"/>
 
 ## Tech Stack
 <div align="center">
