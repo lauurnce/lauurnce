@@ -15,10 +15,11 @@ learning: AWS, Python/ML frameworks, and software engineering fundamentals
 open_to: hackathons, AI/LLM integrations, and student research collaborations
 ```
 
+<img align="right" src="https://komarev.com/ghpvc/?username=lauurnce&style=flat-square&color=808080" alt="Profile Views"/>
+
 [![Facebook](https://img.shields.io/badge/facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/lauurnce/)
 [![Twitter](https://img.shields.io/badge/@icrstck-000000?style=flat&logo=x&logoColor=white)](https://x.com/icrstck)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrencepanes/)
-![Profile Views](https://komarev.com/ghpvc/?username=lauurnce&style=flat-square&color=808080)
 
 <br clear="left"/>
 
