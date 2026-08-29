@@ -8,8 +8,6 @@ BS Information Technology student at the Polytechnic University of the Philippin
 ```yaml
 # lauurnce@github ~ % fetch
 role: AI Lead @ AWS Skill Builder Group PUP
-also: Associate Startup Development Director @ AWSUG e:Novators PH
-also: Deputy Head for Research & Extensions @ IBITS
 focus: LLMs and RAG architectures
 learning: AWS, Python/ML frameworks, and software engineering fundamentals
 open_to: hackathons, AI/LLM integrations, and student research collaborations
